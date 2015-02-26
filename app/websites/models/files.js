@@ -3,7 +3,7 @@ var modelArticle = require('./schema/files.js');
 
 var Files = function  (conf) {
 	conf = conf || {};
-	this.model = new modelArticle;
+	this.model = modelArticle;
 }
 
 //guardar y actualizar

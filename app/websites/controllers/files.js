@@ -14,7 +14,7 @@ var Files = function  (conf) {
 
 	Files.prototype.post_save = function(req, res, next) {
 		this.model.save(req.body,function(doc){
-			res.redirect('/files/see'+ doc.slug)
+			res.redirect('/files/see/'+ doc.slug)
 		})
 	};
 
