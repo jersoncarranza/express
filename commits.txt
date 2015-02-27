@@ -1,0 +1,11 @@
+commit 55fb90515f80900c1b792c5018dee79fcaebcc11
+Author: Jerson Carranza Lucas <jerson_carranza2@hotmail.com>
+Date:   Thu Feb 26 01:25:41 2015 -0500
+
+    2 Funciona el guardar
+
+commit d2484bd18a90343fe9774d6b1aa5f175dd08582c
+Author: Jerson Carranza Lucas <jerson_carranza2@hotmail.com>
+Date:   Thu Feb 26 00:11:44 2015 -0500
+
+    1 Archivos bases
