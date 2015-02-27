@@ -10,9 +10,9 @@ Espress con
 
 Images and content were taken from the following resources:
 
-* [twitter](http://twitter.com/jersoncarranza/)
+* [twitter](https://twitter.com/carranzajerson)
 
-This site was built entirely for education purposes only.
+Practicando git
 
 ### Code: The MIT License (MIT)
 

@@ -33,14 +33,15 @@ var Files = function  (conf) {
 		this.view.add(res, object);
 	};
 
-
+	//url para listar todos los elementos
 	Files.prototype.get_list = function(req, res, next) {
-		var object = {nombre:'listar'};
+		var object = {nombre:'posibles datos'};
 		this.view.list(res, object);
 	};
 
-	Files.prototype.get_edit_data = function(req, res, next) {
-		var object = {nombre:'editar'};
-		this.view.edit(res, object);
+	//url para el chat
+	Files.prototype.get_chat = function(req, res, next) {
+		var object = {chat:'chat'};
+		this.view.chat(res, object);
 	};
 module.exports = Files;
