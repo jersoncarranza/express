@@ -1,3 +1,21 @@
+commit c999ba0082c9e692bdc5c1f53196cb96fca39c4a
+Author: Jerson Carranza Lucas <jerson_carranza2@hotmail.com>
+Date:   Fri Feb 27 18:25:06 2015 -0500
+
+    Con sockets
+
+commit dd65bf099e992f147abf1776ae2f6c92c03e7829
+Author: Jerson Carranza Lucas <jerson_carranza2@hotmail.com>
+Date:   Fri Feb 27 17:51:46 2015 -0500
+
+    Github
+
+commit 218c44f54adbee980db46ead33319208d5a2c18b
+Author: Jerson Carranza Lucas <jerson_carranza2@hotmail.com>
+Date:   Fri Feb 27 17:41:19 2015 -0500
+
+    Archios Bases en github
+
 commit 55fb90515f80900c1b792c5018dee79fcaebcc11
 Author: Jerson Carranza Lucas <jerson_carranza2@hotmail.com>
 Date:   Thu Feb 26 01:25:41 2015 -0500
